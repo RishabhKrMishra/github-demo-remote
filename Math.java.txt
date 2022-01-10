@@ -1,0 +1,23 @@
+# Addition fn--
+void addition()
+{
+return x+y
+}
+
+# Substraction fn--
+void subtract()
+{
+return x-y
+}
+
+# Multiplication fn--
+void multiply()
+{
+return x*Y
+}
+
+# divide fn--
+void divide()
+{
+return x/y
+}
