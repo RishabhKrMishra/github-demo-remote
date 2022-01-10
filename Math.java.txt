@@ -1,22 +1,22 @@
-
+#addition fn--
 void addition()
 {
 return x+y
 }
 
-
+#substraction fn-
 void subtract()
 {
 return x-y
 }
  
-
+#multiplication fn--
 void multiply()
 {
 return x*Y
 }
 
-
+# divide function--
 void divide()
 {
 return x/y
