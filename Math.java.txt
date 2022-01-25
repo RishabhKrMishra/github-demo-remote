@@ -13,7 +13,7 @@ return x-y
 #multiplication fn--
 void multiply()
 {
-return x*Y
+x+y;
 }
 
 # divide function--
